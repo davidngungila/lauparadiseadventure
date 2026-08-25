@@ -33,6 +33,8 @@ Route::get('/safaris/zanzibar-beach-safari', fn () => view('safaris.zanzibar-bea
 Route::get('/safaris/tarangire-serengeti-safari', fn () => view('safaris.tarangire-serengeti-safari'))->name('safaris.tarangire-serengeti');
 Route::get('/safaris/great-migration-river-crossing', fn () => view('safaris.great-migration-river-crossing'))->name('safaris.migration-crossing');
 Route::get('/safaris/luxury-tanzania-zanzibar', fn () => view('safaris.luxury-tanzania-zanzibar'))->name('safaris.luxury-tz-zanzibar');
+Route::get('/safaris/ngorongoro-private-safari', fn () => view('safaris.ngorongoro-private-safari'))->name('safaris.ngorongoro-private');
+Route::get('/safaris/serengeti-private-safari', fn () => view('safaris.serengeti-private-safari'))->name('safaris.serengeti-private');
 
 // ─── KILIMANJARO ───
 Route::get('/kilimanjaro', fn () => view('kilimanjaro.index'))->name('kilimanjaro.index');
@@ -110,6 +112,8 @@ Route::get('/sitemap.xml', function () {
         'safaris.ngorongoro-manyara' => ['0.7', 'weekly'],
         'safaris.luxury-serengeti' => ['0.8', 'weekly'],
         'safaris.photography' => ['0.7', 'weekly'],
+        'safaris.ngorongoro-private' => ['0.7', 'weekly'],
+        'safaris.serengeti-private' => ['0.7', 'weekly'],
         'safaris.cultural-wildlife' => ['0.7', 'weekly'],
         'safaris.honeymoon-beach' => ['0.7', 'weekly'],
         'safaris.kili-combo' => ['0.7', 'weekly'],
