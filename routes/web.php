@@ -84,6 +84,12 @@ Route::get('/about', fn () => view('about.index'))->name('about');
 // ─── CONTACT ───
 Route::get('/contact', fn () => view('contact.index'))->name('contact');
 
+// ─── LEGAL PAGES ───
+Route::get('/privacy-policy', fn () => view('legal.privacy'))->name('legal.privacy');
+Route::get('/terms', fn () => view('legal.terms'))->name('legal.terms');
+Route::get('/booking-terms', fn () => view('legal.booking'))->name('legal.booking');
+Route::get('/cancellation-policy', fn () => view('legal.cancellation'))->name('legal.cancellation');
+
 // ─── SEO ROUTES ───
 Route::get('/sitemap.xml', function () {
     $base = 'https://www.lauparadiseadventure.com';
@@ -147,6 +153,10 @@ Route::get('/sitemap.xml', function () {
         'faq' => ['0.7', 'monthly'],
         'about' => ['0.6', 'monthly'],
         'contact' => ['0.7', 'monthly'],
+        'legal.privacy' => ['0.5', 'yearly'],
+        'legal.terms' => ['0.5', 'yearly'],
+        'legal.booking' => ['0.5', 'yearly'],
+        'legal.cancellation' => ['0.5', 'yearly'],
     ];
 
     $entries = [];
