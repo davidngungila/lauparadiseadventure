@@ -137,6 +137,10 @@
             'faq' => 'FAQ',
             'about' => 'About',
             'contact' => 'Contact',
+            'privacy-policy' => 'Privacy Policy',
+            'terms' => 'Terms & Conditions',
+            'booking-terms' => 'Booking Terms',
+            'cancellation-policy' => 'Cancellation Policy',
         ];
         foreach ($segments as $seg) {
             $builtPath .= '/' . $seg;
