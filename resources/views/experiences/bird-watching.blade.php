@@ -1,7 +1,7 @@
 ﻿@extends('layouts.app')
 
 @section('page-title', 'Bird Watching Tanzania | 1000+ Species in the Wild | LAU Paradise Adventure')
-@section('meta-description', 'Discover Tanzania's incredible birdlife — over 1,000 species from flamingos and pelicans to fish eagles and secretary birds.')
+@section('meta-description', "Discover Tanzania's incredible birdlife — over 1,000 species from flamingos and pelicans to fish eagles and secretary birds.")
 @section('meta-keywords', 'bird watching Tanzania, birding safari, Tanzania birds, flamingos Lake Manyara, bird watching tour')
 @section('canonical', 'https://www.lauparadiseadventure.com/experiences/bird-watching')
 @section('og-image', 'https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046169/closeup-shot-beautiful-bird-sitting-pick-up_enaih2.jpg')

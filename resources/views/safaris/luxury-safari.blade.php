@@ -202,7 +202,7 @@
                         <strong>$4,200</strong>
                         <em> / person</em>
                     </div>
-                    <a href="/safaris/serengeti-fly-in-safari" class="btn-sm">View Details <i class="fas fa-arrow-right"></i></a>
+                    <a href="/safaris/luxury-serengeti-fly-in" class="btn-sm">View Details <i class="fas fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
