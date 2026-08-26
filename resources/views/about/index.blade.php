@@ -4,7 +4,7 @@
 @section('meta-description', 'Meet the team behind LAU Paradise Adventure — a locally owned Moshi-based Tanzania travel company crafting authentic safari, Kilimanjaro and Zanzibar experiences since 2020.')
 @section('meta-keywords', 'about LAU Paradise Adventure, Tanzania tour operator, Tanzania travel company, Moshi Tanzania, local safari company')
 @section('canonical', 'https://www.lauparadiseadventure.com/about')
-@section('og-image', 'https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046472/team6.jpg')
+@section('og-image', 'https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp')
 
 @section('structured-data')
 @verbatim
@@ -44,7 +44,7 @@
 
 @section('extra-css')
 <style>
-.about-hero { background-image: url('https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046472/team6.jpg'); }
+.about-hero { background-image: url('https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp'); }
 .about-mission { background: var(--cream); padding: 80px 8%; }
 .about-mission-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; }
 .about-mission-text h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.5rem; font-weight: 700; color: var(--earth); margin-bottom: 16px; margin-top: 26px; }
@@ -153,7 +153,7 @@
 
 @section('content')
 <div class="page-hero page-hero-about">
-    <div class="page-hero-bg" style="background-image: url('https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046472/team6.jpg');"></div>
+    <div class="page-hero-bg" style="background-image: url('https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp');"></div>
     <div class="page-hero-content">
         <div class="breadcrumb">
             <a href="/">Home</a>
@@ -179,7 +179,7 @@
             <p>A future where tourism in Tanzania lifts the people and landscapes that make it extraordinary — where every visitor leaves as an ambassador for the country we are proud to call home.</p>
         </div>
         <div class="about-mission-img">
-            <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046472/team6.jpg" alt="LAU Paradise Adventure team in Tanzania" class="about-mission-img-main" loading="lazy">
+            <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Travelers on safari with LAU Paradise Adventure in Tanzania" class="about-mission-img-main" loading="lazy">
             <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046195/hadzabe_qgukhh.jpg" alt="Cultural experience with the Hadzabe community" class="about-mission-img-float" loading="lazy">
         </div>
     </div>
