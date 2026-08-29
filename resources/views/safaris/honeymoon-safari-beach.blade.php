@@ -137,15 +137,41 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 1-3 - Serengeti Romance" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 1 - Serengeti Arrival" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
+                </div>
+                <h3 class="luxury-card-title">Serengeti Arrival</h3>
+                <p class="luxury-card-desc">Fly into the Serengeti and settle into your luxury lodge, then head out for a first golden-hour game drive across the open plains.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 2 - Safari & Sundowners" loading="lazy">
                 <span class="luxury-card-badge">Romance</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-3</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
                 </div>
-                <h3 class="luxury-card-title">Serengeti Romance</h3>
-                <p class="luxury-card-desc">Three nights in a luxury Serengeti lodge. Private game drives, champagne sundowners and a romantic bush dinner under the African stars.</p>
+                <h3 class="luxury-card-title">Safari &amp; Sundowners</h3>
+                <p class="luxury-card-desc">Private game drives in search of the Serengeti's lions, elephants and migrating herds, capped with a champagne sundowner overlooking the savannah.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 3 - Bush Dinner Under Stars" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Bush Dinner Under Stars</h3>
+                <p class="luxury-card-desc">A relaxed morning watching wildlife from your private deck, then an unforgettable evening with a romantic candlelit bush dinner beneath the African stars.</p>
             </div>
         </div>
 
@@ -158,21 +184,47 @@
                     <span><i class="fas fa-calendar-day"></i> Day 4</span>
                 </div>
                 <h3 class="luxury-card-title">Fly to Zanzibar</h3>
-                <p class="luxury-card-desc">Scenic flight from the Serengeti to Zanzibar. Transfer to your beach resort and settle into paradise with a welcome champagne toast.</p>
+                <p class="luxury-card-desc">Take a scenic flight from the Serengeti to Zanzibar, transfer to your beach resort and settle into paradise with a welcome champagne toast.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 5-7 - Zanzibar Beach" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 5 - Zanzibar White Sands" loading="lazy">
                 <span class="luxury-card-badge">Beach</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 5-7</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
                 </div>
-                <h3 class="luxury-card-title">Zanzibar Beach</h3>
-                <p class="luxury-card-desc">Three days of pure beach bliss. Snorkel in crystal-clear waters, explore Stone Town's historic alleys and enjoy couples spa treatments at sunset.</p>
+                <h3 class="luxury-card-title">Zanzibar White Sands</h3>
+                <p class="luxury-card-desc">A first full day of barefoot luxury on pristine white sand, swimming and snorkeling in the warm, turquoise waters of the Indian Ocean.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 6 - Stone Town & Spa" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
+                </div>
+                <h3 class="luxury-card-title">Stone Town &amp; Spa</h3>
+                <p class="luxury-card-desc">Wander the historic alleys of Stone Town with its spice markets and coral stone houses, then ease into a couples spa treatment as the sun sets.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/beautiful-waterfall-streaming-into-river-surrounded-by-greens_dgyhld.jpg" alt="Day 7 - Dhow Cruise & Farewell" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 7</span>
+                </div>
+                <h3 class="luxury-card-title">Dhow Cruise &amp; Farewell</h3>
+                <p class="luxury-card-desc">Sail into the sunset on a traditional dhow cruise along the coast, followed by a farewell beachfront dinner to round off your honeymoon escape.</p>
             </div>
         </div>
     </div>

@@ -137,15 +137,54 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 1-4 - Luxury Fly-In Safari" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 1 - Tarangire" loading="lazy">
                 <span class="luxury-card-badge">Luxury</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-4</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Luxury Fly-In Safari</h3>
-                <p class="luxury-card-desc">Four days flying between the Serengeti, Ngorongoro and Tarangire in private luxury camps. Private game drives, bush dinners and champagne sundowners at every camp.</p>
+                <h3 class="luxury-card-title">Arrival & Tarangire</h3>
+                <p class="luxury-card-desc">Arrive in Arusha and transfer on a private flight into Tarangire, settling into your luxury tented camp before an afternoon game drive among the great elephant herds.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 2 - Ngorongoro Crater" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Ngorongoro Crater Fly-In</h3>
+                <p class="luxury-card-desc">Fly to the Ngorongoro highlands and descend into the crater for a full day private game drive, from black rhinos on the crater floor to flamingos ringing the soda lake.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 3 - Serengeti" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Into the Serengeti</h3>
+                <p class="luxury-card-desc">A scenic bush flight across the rift escarpment drops you into the Serengeti, where your private guide awaits for an evening drive through the golden plains.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 4 - Serengeti Migration" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Full Day Great Migration</h3>
+                <p class="luxury-card-desc">A full day following the Great Migration across the Serengeti, ending with a champagne sundowner as the sun sinks over the endless savanna.</p>
             </div>
         </div>
 
@@ -164,15 +203,80 @@
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 6-11 - Zanzibar Beach Luxury" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 6 - Zanzibar Beach" loading="lazy">
                 <span class="luxury-card-badge">Beach</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 6-11</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
                 </div>
-                <h3 class="luxury-card-title">Zanzibar Beach Luxury</h3>
-                <p class="luxury-card-desc">Six days of barefoot luxury on Zanzibar's finest beach. Private butler, spa treatments, snorkeling, dhow cruises and sunset cocktails on the white sand beach.</p>
+                <h3 class="luxury-card-title">Barefoot Beach Luxury</h3>
+                <p class="luxury-card-desc">Wake to the sound of the Indian Ocean and spend the day between the infinity pool, white sand beach and your private pavilion, with your butler anticipating every whim.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 7 - Stone Town" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 7</span>
+                </div>
+                <h3 class="luxury-card-title">Stone Town & Spices</h3>
+                <p class="luxury-card-desc">Tour the winding alleys of UNESCO-listed Stone Town, from the old slave market site to the spice markets, before wandering a fragrant spice farm in the countryside.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 8 - Dhow Cruise" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 8</span>
+                </div>
+                <h3 class="luxury-card-title">Snorkeling & Dhow Cruise</h3>
+                <p class="luxury-card-desc">Sail out on a traditional dhow to a sandbank for snorkeling over coral gardens, then cruise back at sunset with drinks in hand as dolphins play beside the boat.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 9 - Beach Spa" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 9</span>
+                </div>
+                <h3 class="luxury-card-title">Spa & Secluded Bay</h3>
+                <p class="luxury-card-desc">Slow morning of spa treatments in a beachfront pavilion, then a private picnic lunch on a secluded stretch of sand far from the crowds.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 10 - Beach Sunset" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 10</span>
+                </div>
+                <h3 class="luxury-card-title">Farewell Beach Sunset</h3>
+                <p class="luxury-card-desc">One last day of beachside indulgence, finishing with a private farewell dinner and sunset cocktails as your island escape draws to a close.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 11 - Departure" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 11</span>
+                </div>
+                <h3 class="luxury-card-title">Departure from Zanzibar</h3>
+                <p class="luxury-card-desc">Check out of your resort and transfer to Zanzibar Airport for your onward journey home, carrying the scent of cloves and the weight of memories from island and savanna alike.</p>
             </div>
         </div>
     </div>

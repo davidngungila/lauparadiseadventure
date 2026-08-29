@@ -99,43 +99,99 @@
         <div class="sps-cards">
             <div class="sps-card">
                 <div class="sps-card-img">
-                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Days 1-2 - Arrival and Seronera" loading="lazy">
-                    <span class="sps-badge">Days 1-2</span>
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 1 - Tarangire Baobabs" loading="lazy">
+                    <span class="sps-badge">Day 1</span>
                 </div>
                 <div class="sps-body">
                     <div class="sps-meta">
-                        <span><i class="fas fa-camera"></i> Central Serengeti</span>
+                        <span><i class="fas fa-camera"></i> Tarangire National Park</span>
                     </div>
-                    <h3 class="sps-title">Seronera Golden Hours</h3>
-                    <p class="sps-desc">Arrive for an afternoon session, then two full days of dawn-and-dusk shoots around Seronera's leopard trees and lion kopjes.</p>
+                    <h3 class="sps-title">Tarangire First Light</h3>
+                    <p class="sps-desc">Arrive in Tarangire for an afternoon shoot among giant baobabs, elephant herds and dusty dry-season concentrations.</p>
                 </div>
             </div>
 
             <div class="sps-card">
                 <div class="sps-card-img">
-                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 3-5 - Cheetah Plains" loading="lazy">
-                    <span class="sps-badge">Days 3-5</span>
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Serengeti Arrival" loading="lazy">
+                    <span class="sps-badge">Day 2</span>
+                </div>
+                <div class="sps-body">
+                    <div class="sps-meta">
+                        <span><i class="fas fa-camera"></i> Serengeti Transit</span>
+                    </div>
+                    <h3 class="sps-title">Road to the Plains</h3>
+                    <p class="sps-desc">Cross the crater highlands into the Serengeti, setting up camp in time for golden-hour silhouettes against acacia skies.</p>
+                </div>
+            </div>
+
+            <div class="sps-card">
+                <div class="sps-card-img">
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 3 - Seronera Leopards" loading="lazy">
+                    <span class="sps-badge">Day 3</span>
+                </div>
+                <div class="sps-body">
+                    <div class="sps-meta">
+                        <span><i class="fas fa-camera"></i> Seronera Valley</span>
+                    </div>
+                    <h3 class="sps-title">Seronera Leopard Light</h3>
+                    <p class="sps-desc">Dawn-and-dusk shoots around Seronera's leopard trees and lion kopjes, lingering for behaviour rather than ticking species.</p>
+                </div>
+            </div>
+
+            <div class="sps-card">
+                <div class="sps-card-img">
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 4 - Cheetah Plains" loading="lazy">
+                    <span class="sps-badge">Day 4</span>
                 </div>
                 <div class="sps-body">
                     <div class="sps-meta">
                         <span><i class="fas fa-camera"></i> Eastern Plains &amp; Kopjes</span>
                     </div>
                     <h3 class="sps-title">Cheetah Country</h3>
-                    <p class="sps-desc">Three days in the east where cheetah hunt on open termite-mound vantages — clean backgrounds and action sequences.</p>
+                    <p class="sps-desc">Spend the day on open termite-mound vantages where cheetah hunt — clean backgrounds and full action sequences.</p>
                 </div>
             </div>
 
             <div class="sps-card">
                 <div class="sps-card-img">
-                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Days 6-7 - Retima Pools and Farewell" loading="lazy">
-                    <span class="sps-badge">Finale</span>
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 5 - Northern Migration Herds" loading="lazy">
+                    <span class="sps-badge">Day 5</span>
+                </div>
+                <div class="sps-body">
+                    <div class="sps-meta">
+                        <span><i class="fas fa-camera"></i> Northern Serengeti</span>
+                    </div>
+                    <h3 class="sps-title">Northbound Herds</h3>
+                    <p class="sps-desc">Track the migration north for river-crossing chances and wildebeest columns strung across the rolling grasslands.</p>
+                </div>
+            </div>
+
+            <div class="sps-card">
+                <div class="sps-card-img">
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 6 - Ngorongoro Crater" loading="lazy">
+                    <span class="sps-badge">Day 6</span>
+                </div>
+                <div class="sps-body">
+                    <div class="sps-meta">
+                        <span><i class="fas fa-camera"></i> Ngorongoro Crater</span>
+                    </div>
+                    <h3 class="sps-title">Crater Floor Portraits</h3>
+                    <p class="sps-desc">Descend into the crater for lion, black rhino and flamingo reflections beside the soda lake — a full-day shoot below the rim.</p>
+                </div>
+            </div>
+
+            <div class="sps-card">
+                <div class="sps-card-img">
+                    <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 7 - Retima Pools Farewell" loading="lazy">
+                    <span class="sps-badge">Day 7</span>
                 </div>
                 <div class="sps-body">
                     <div class="sps-meta">
                         <span><i class="fas fa-camera"></i> Retima Hippo Pool - Return</span>
                     </div>
-                    <h3 class="sps-title">Hippos, Birds &amp; Farewell Frames</h3>
-                    <p class="sps-desc">Final sessions at Retima pools for hippo conflict shots and weaver colonies before returning to Arusha.</p>
+                    <h3 class="sps-title">Hippos &amp; Farewell Frames</h3>
+                    <p class="sps-desc">Morning sessions at Retima pools for hippo conflict shots and weaver colonies before returning to Arusha.</p>
                 </div>
             </div>
         </div>

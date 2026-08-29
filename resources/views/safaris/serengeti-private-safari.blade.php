@@ -134,46 +134,91 @@
     <div class="spc-highlights">
         <div class="spc-card">
             <div class="spc-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Days 1-2 - Central Serengeti" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 1 - Tarangire Elephants" loading="lazy">
                 <span class="spc-card-badge">Private</span>
             </div>
             <div class="spc-card-body">
                 <div class="spc-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Days 1-2</span>
-                    <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire National Park</span>
                 </div>
-                <h3 class="spc-card-title">Seronera &amp; Central Plains</h3>
-                <p class="spc-card-desc">Travel from Arusha through Ngorongoro highlands into central Serengeti. Full days tracking big cats around Seronera — lion, leopard and cheetah country.</p>
+                <h3 class="spc-card-title">Tarangire Welcome</h3>
+                <p class="spc-card-desc">Meet your guide and set out on an afternoon drive through Tarangire's baobab woodlands, tracking elephant herds and lion.</p>
             </div>
         </div>
 
         <div class="spc-card">
             <div class="spc-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 3-4 - Northern Serengeti" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Road to Serengeti" loading="lazy">
+                <span class="spc-card-badge">Private</span>
+            </div>
+            <div class="spc-card-body">
+                <div class="spc-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
+                </div>
+                <h3 class="spc-card-title">Into the Serengeti</h3>
+                <p class="spc-card-desc">Travel from Tarangire through the Ngorongoro highlands and into central Serengeti, settling in for the nights ahead.</p>
+            </div>
+        </div>
+
+        <div class="spc-card">
+            <div class="spc-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 3 - Seronera Big Cats" loading="lazy">
+                <span class="spc-card-badge">Private</span>
+            </div>
+            <div class="spc-card-body">
+                <div class="spc-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Seronera Valley</span>
+                </div>
+                <h3 class="spc-card-title">Seronera Game Drive</h3>
+                <p class="spc-card-desc">A full private day tracking lion, leopard and cheetah around Seronera's river and kopjes, staying as long as the action allows.</p>
+            </div>
+        </div>
+
+        <div class="spc-card">
+            <div class="spc-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 4 - Northern Plains" loading="lazy">
                 <span class="spc-card-badge">Migration</span>
             </div>
             <div class="spc-card-body">
                 <div class="spc-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Days 3-4</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
                     <span><i class="fas fa-map-marker-alt"></i> Northern Serengeti</span>
                 </div>
-                <h3 class="spc-card-title">Northern Serengeti &amp; Mara River</h3>
-                <p class="spc-card-desc">Journey to the remote north toward the Mara River, where the Great Migration herds gather (seasonal). Dramatic crossings and fewer vehicles in this wild frontier.</p>
+                <h3 class="spc-card-title">Private Drive North</h3>
+                <p class="spc-card-desc">Journey toward the remote north where the Great Migration herds gather (seasonal) — dramatic crossings and far fewer vehicles.</p>
             </div>
         </div>
 
         <div class="spc-card">
             <div class="spc-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Days 5-6 - Return via Ngorongoro" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 5 - Ngorongoro Crater" loading="lazy">
                 <span class="spc-card-badge">Finale</span>
             </div>
             <div class="spc-card-body">
                 <div class="spc-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Days 5-6</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater</span>
+                </div>
+                <h3 class="spc-card-title">Crater Finale</h3>
+                <p class="spc-card-desc">Descend into Ngorongoro for lion, black rhino and flamingos around the soda lake, enjoying a picnic lunch on the crater floor.</p>
+            </div>
+        </div>
+
+        <div class="spc-card">
+            <div class="spc-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 6 - Return to Arusha" loading="lazy">
+                <span class="spc-card-badge">Finale</span>
+            </div>
+            <div class="spc-card-body">
+                <div class="spc-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
                     <span><i class="fas fa-map-marker-alt"></i> Return to Arusha</span>
                 </div>
-                <h3 class="spc-card-title">Final Drives &amp; Return</h3>
-                <p class="spc-card-desc">A final morning game drive and leisurely return south with an optional stop at Olduvai Gorge or a Maasai village before arriving back in Arusha.</p>
+                <h3 class="spc-card-title">Return via Olduvai</h3>
+                <p class="spc-card-desc">Drive south past Olduvai Gorge with an optional Maasai village visit before arriving back in Arusha to end your safari.</p>
             </div>
         </div>
     </div>

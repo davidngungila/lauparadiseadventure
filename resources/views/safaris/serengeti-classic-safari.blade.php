@@ -99,43 +99,71 @@
     <div class="scs-cards">
         <div class="scs-card">
             <div class="scs-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Days 1-2 - Into the Serengeti" loading="lazy">
-                <span class="scs-badge">Days 1-2</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 1 - Tarangire Game Drive" loading="lazy">
+                <span class="scs-badge">Day 1</span>
+            </div>
+            <div class="scs-body">
+                <div class="scs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire</span>
+                </div>
+                <h3 class="scs-title">Elephants of Tarangire</h3>
+                <p class="scs-desc">Pickup in Arusha and a game-drive route through Tarangire, meeting its famous elephant herds before spending the night on the park's edge.</p>
+            </div>
+        </div>
+
+        <div class="scs-card">
+            <div class="scs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 2 - Drive to the Serengeti" loading="lazy">
+                <span class="scs-badge">Day 2</span>
             </div>
             <div class="scs-body">
                 <div class="scs-meta">
                     <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
                 </div>
-                <h3 class="scs-title">Arrival &amp; Seronera Days</h3>
-                <p class="scs-desc">Travel via the Ngorongoro highlands into the Seronera valley for two days of lion, leopard and elephant viewing.</p>
+                <h3 class="scs-title">Into the Endless Plains</h3>
+                <p class="scs-desc">Drive through the Ngorongoro highlands and down into the Seronera valley, arriving for your first Serengeti afternoon drive.</p>
             </div>
         </div>
 
         <div class="scs-card">
             <div class="scs-card-img">
                 <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3 - Following the Herds" loading="lazy">
-                <span class="scs-badge">Migration</span>
+                <span class="scs-badge">Day 3</span>
             </div>
             <div class="scs-body">
                 <div class="scs-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Migration Corridor</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Seronera Valley</span>
                 </div>
-                <h3 class="scs-title">Following the Great Herds</h3>
-                <p class="scs-desc">A flexible day positioned where the migration is — your guide tracks the herds' location for prime viewing.</p>
+                <h3 class="scs-title">Full-Day Game Drive</h3>
+                <p class="scs-desc">Dawn-to-dusk in the Seronera region with a picnic lunch, hunting down lions, leopards and elephants across the open savannah.</p>
             </div>
         </div>
 
         <div class="scs-card">
             <div class="scs-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Days 4-5 - Ngorongoro Crater and Return" loading="lazy">
-                <span class="scs-badge">Crater</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 4 - Migration Corridor" loading="lazy">
+                <span class="scs-badge">Day 4</span>
+            </div>
+            <div class="scs-body">
+                <div class="scs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Western Serengeti</span>
+                </div>
+                <h3 class="scs-title">Following the Herds</h3>
+                <p class="scs-desc">A flexible day positioned in the western Serengeti where the migration is, your guide moving to meet the great herds' lines.</p>
+            </div>
+        </div>
+
+        <div class="scs-card">
+            <div class="scs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 5 - Ngorongoro Crater and Return" loading="lazy">
+                <span class="scs-badge">Day 5</span>
             </div>
             <div class="scs-body">
                 <div class="scs-meta">
                     <span><i class="fas fa-map-marker-alt"></i> Ngorongoro - Arusha</span>
                 </div>
                 <h3 class="scs-title">Crater Finale &amp; Return</h3>
-                <p class="scs-desc">Descend into Ngorongoro for a final density-of-wildlife spectacular before returning to Arusha.</p>
+                <p class="scs-desc">Descend into Ngorongoro for a final density-of-wildlife spectacular before the drive back to Arusha.</p>
             </div>
         </div>
     </div>

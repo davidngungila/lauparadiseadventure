@@ -114,7 +114,7 @@
         <div class="ncs-card">
             <div class="ncs-card-img">
                 <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Full Day Crater Game Drive" loading="lazy">
-                <span class="ncs-badge">Big Five</span>
+                <span class="ncs-badge">Day 2</span>
             </div>
             <div class="ncs-body">
                 <div class="ncs-meta">
@@ -127,15 +127,29 @@
 
         <div class="ncs-card">
             <div class="ncs-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Days 3-4 - Culture and Return" loading="lazy">
-                <span class="ncs-badge">Culture</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Crater Highlands" loading="lazy">
+                <span class="ncs-badge">Day 3</span>
             </div>
             <div class="ncs-body">
                 <div class="ncs-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Maasai Boma - Arusha</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Crater Highlands</span>
                 </div>
-                <h3 class="ncs-title">Maasai Visit &amp; Return</h3>
-                <p class="ncs-desc">Optional second descent or a Maasai boma visit on the highlands, then return to Arusha with drop-off at your hotel or airport.</p>
+                <h3 class="ncs-title">Highlands &amp; Maasai</h3>
+                <p class="ncs-desc">Optional second crater descent or a Maasai boma visit across the highlands, meeting the semi-nomadic herders and their livestock.</p>
+            </div>
+        </div>
+
+        <div class="ncs-card">
+            <div class="ncs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 4 - Return to Arusha" loading="lazy">
+                <span class="ncs-badge">Day 4</span>
+            </div>
+            <div class="ncs-body">
+                <div class="ncs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro - Arusha</span>
+                </div>
+                <h3 class="ncs-title">Departure Day</h3>
+                <p class="ncs-desc">A final crater-rim game drive before the scenic drive back to Arusha, with drop-off at your hotel or the airport.</p>
             </div>
         </div>
     </div>

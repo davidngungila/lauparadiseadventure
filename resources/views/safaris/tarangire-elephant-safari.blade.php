@@ -150,28 +150,41 @@
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/closeup-shot-elephants-standing-near-lake-sunset_set5ic.jpg" alt="Day 2-3 - Full Day Game Drives" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/closeup-shot-elephants-standing-near-lake-sunset_set5ic.jpg" alt="Day 2 - Full Day Tarangire" loading="lazy">
                 <span class="luxury-card-badge">Highlight</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 2-3</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
                 </div>
-                <h3 class="luxury-card-title">Full Day Game Drives</h3>
-                <p class="luxury-card-desc">Two full days exploring Tarangire's diverse ecosystems. Visit the Silale Swamp, the Lemiyon area and the iconic baobab-studded landscapes. Track elephants, lions and leopards.</p>
+                <h3 class="luxury-card-title">Full Day Tarangire</h3>
+                <p class="luxury-card-desc">A full day exploring Tarangire's diverse ecosystems, from the Silale Swamp and the Lemiyon area to the iconic baobab-studded landscapes, tracking elephants, lions and leopards.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Lake Manyara" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Lake Manyara" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Lake Manyara Game Drive</h3>
+                <p class="luxury-card-desc">Transfer to Lake Manyara National Park and explore the groundwater forests and soda lake shores, keeping an eye out for the park's famous tree-climbing lions.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/closeup-shot-elephants-standing-near-lake-sunset_set5ic.jpg" alt="Day 4 - Ngorongoro Crater" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
                     <span><i class="fas fa-calendar-day"></i> Day 4</span>
                 </div>
-                <h3 class="luxury-card-title">Lake Manyara</h3>
-                <p class="luxury-card-desc">Transfer to Lake Manyara National Park for a game drive. Explore the groundwater forests, soda lake shores and the famous tree-climbing lions.</p>
+                <h3 class="luxury-card-title">Ngorongoro Crater</h3>
+                <p class="luxury-card-desc">Drive down onto the Ngorongoro Crater floor for an afternoon game drive among the Big Five, with black rhinos on the plains and flamingos ringing the soda lake.</p>
             </div>
         </div>
 

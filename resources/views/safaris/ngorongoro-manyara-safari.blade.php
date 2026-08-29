@@ -150,28 +150,41 @@
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 2-3 - Ngorongoro Crater" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 2 - Ngorongoro Crater" loading="lazy">
                 <span class="luxury-card-badge">Highlight</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 2-3</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
                 </div>
                 <h3 class="luxury-card-title">Ngorongoro Crater</h3>
-                <p class="luxury-card-desc">Full day game drives in the Ngorongoro Crater. Spot the Big Five in this natural amphitheatre with the densest wildlife population in Africa.</p>
+                <p class="luxury-card-desc">Descend 600 metres into the crater for a full day of game drives, spotting the Big Five in this natural amphitheatre with Africa's densest wildlife.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Return to Arusha" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Crater Highlands" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Crater Highlands</h3>
+                <p class="luxury-card-desc">Explore the lush crater highlands and the Manyara area, photographing the crater rim escarpment before a relaxed scenic drive through the highlands.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Manyara & Return" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
                     <span><i class="fas fa-calendar-day"></i> Day 4</span>
                 </div>
-                <h3 class="luxury-card-title">Return to Arusha</h3>
-                <p class="luxury-card-desc">Morning game drive on the crater rim before the scenic drive back to Arusha. Optional visit to a Maasai village along the way.</p>
+                <h3 class="luxury-card-title">Manyara & Return</h3>
+                <p class="luxury-card-desc">Final game drive along Lake Manyara's soda shores, then the scenic drive back to Arusha, with an optional Maasai village visit along the way.</p>
             </div>
         </div>
     </div>

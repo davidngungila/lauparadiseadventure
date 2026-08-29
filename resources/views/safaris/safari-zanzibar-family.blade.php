@@ -99,43 +99,169 @@
     <div class="szf-cards">
         <div class="szf-card">
             <div class="szf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Days 1-6 - Family Safari Circuit" loading="lazy">
-                <span class="szf-badge">Days 1-6</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 1 - Tarangire Elephants" loading="lazy">
+                <span class="szf-badge">Day 1</span>
             </div>
             <div class="szf-body">
                 <div class="szf-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Tarangire - Manyara - Ngorongoro</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire</span>
                 </div>
-                <h3 class="szf-title">Northern Safari Circuit</h3>
-                <p class="szf-desc">Six gentle safari days with pool afternoons: Tarangire elephants, Manyara lions and a full crater descent.</p>
+                <h3 class="szf-title">Meet the Elephants</h3>
+                <p class="szf-desc">Pickup in Arusha and a gentle drive to Tarangire for your first family game drive among herds of elephants and baboons.</p>
             </div>
         </div>
 
         <div class="szf-card">
             <div class="szf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Days 7-11 - Zanzibar Beach" loading="lazy">
-                <span class="szf-badge">Beach</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Tarangire Game Drive" loading="lazy">
+                <span class="szf-badge">Day 2</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire</span>
+                </div>
+                <h3 class="szf-title">Baobabs &amp; Big Game</h3>
+                <p class="szf-desc">A full Tarangire day under the baobabs, watching elephants at the river and prides of lions resting in the grass.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Lake Manyara" loading="lazy">
+                <span class="szf-badge">Day 3</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Lake Manyara</span>
+                </div>
+                <h3 class="szf-title">Flamingos &amp; Tree Lions</h3>
+                <p class="szf-desc">Drive to Lake Manyara for pink flamingos at the shoreline, grunting hippos and its famous tree-climbing lions.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 4 - Ngorongoro Rim" loading="lazy">
+                <span class="szf-badge">Day 4</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Rim</span>
+                </div>
+                <h3 class="szf-title">Up to the Crater</h3>
+                <p class="szf-desc">A short scenic transfer to a rim lodge with a pool, ending with sunset views across the colossal crater.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 5 - Ngorongoro Crater Floor" loading="lazy">
+                <span class="szf-badge">Day 5</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater</span>
+                </div>
+                <h3 class="szf-title">Big Five Below</h3>
+                <p class="szf-desc">Descend to the crater floor for a full day ticking off lions, elephants, buffalo and rhino with a kid-savvy guide.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 6 - Maasai Village and Transfer" loading="lazy">
+                <span class="szf-badge">Day 6</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Arusha - Sea</span>
+                </div>
+                <h3 class="szf-title">Maasai Morning</h3>
+                <p class="szf-desc">Visit a Maasai boma for song and beadwork, then drive back to Arusha for your flight to the islands.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 7 - Fly to Zanzibar" loading="lazy">
+                <span class="szf-badge">Day 7</span>
             </div>
             <div class="szf-body">
                 <div class="szf-meta">
                     <span><i class="fas fa-plane"></i> Fly to Zanzibar</span>
                 </div>
-                <h3 class="szf-title">Zanzibar Beach Days</h3>
-                <p class="szf-desc">Five days of sandcastles, snorkeling safaris, a spice tour and dhow sunset sails from a family beach resort.</p>
+                <h3 class="szf-title">Aerial Safari to the Beach</h3>
+                <p class="szf-desc">A short hopper flight over Kilimanjaro to Zanzibar, then settle into a family beachfront resort for sunset.</p>
             </div>
         </div>
 
         <div class="szf-card">
             <div class="szf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 12 - Stone Town and Departure" loading="lazy">
-                <span class="szf-badge">Finale</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 8 - Zanzibar Beach" loading="lazy">
+                <span class="szf-badge">Day 8</span>
             </div>
             <div class="szf-body">
                 <div class="szf-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Stone Town - Airport</span>
+                    <span><i class="fas fa-umbrella-beach"></i> Nungwi Beach</span>
                 </div>
-                <h3 class="szf-title">Stone Town Goodbye</h3>
-                <p class="szf-desc">A morning wander through Stone Town's alleys and markets before your flight home from Zanzibar.</p>
+                <h3 class="szf-title">Sandcastle Day</h3>
+                <p class="szf-desc">A lazy day of shallow swimming, sandcastles and beach-front ice cream on the calm north-coast shore.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 9 - Snorkeling Reef" loading="lazy">
+                <span class="szf-badge">Day 9</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-ship"></i> Mnemba Atoll</span>
+                </div>
+                <h3 class="szf-title">First Snorkel</h3>
+                <p class="szf-desc">A boat trip to the reef with gentle snorkeling over coral gardens, turtles and rainbow fish — a marine safari.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 10 - Spice Tour and Stone Town" loading="lazy">
+                <span class="szf-badge">Day 10</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Stone Town</span>
+                </div>
+                <h3 class="szf-title">Spices &amp; Old Town</h3>
+                <p class="szf-desc">Smell your way through a clove and vanilla farm, then wander Stone Town's alleys in search of famous Zanzibar doors.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 11 - Dhow Sunset Cruise" loading="lazy">
+                <span class="szf-badge">Day 11</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-sailboat"></i> Zanzibar Coast</span>
+                </div>
+                <h3 class="szf-title">Dhow Sunset Sail</h3>
+                <p class="szf-desc">One last beach morning, then a traditional dhow cruise at sunset with a breeze and a horizon of gold.</p>
+            </div>
+        </div>
+
+        <div class="szf-card">
+            <div class="szf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 12 - Departure" loading="lazy">
+                <span class="szf-badge">Day 12</span>
+            </div>
+            <div class="szf-body">
+                <div class="szf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Airport</span>
+                </div>
+                <h3 class="szf-title">Zanzibar Goodbye</h3>
+                <p class="szf-desc">A relaxed morning on the beach before your transfer to the airport and flight home, full of memories.</p>
             </div>
         </div>
     </div>

@@ -137,42 +137,94 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 1-2 - Northern Serengeti" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 1 - Northern Serengeti Arrival" loading="lazy">
                 <span class="luxury-card-badge">Migration</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-2</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Northern Serengeti</h3>
-                <p class="luxury-card-desc">Arrive in the northern Serengeti where the migration herds are massing. Full day game drives tracking the wildebeest columns as they move toward the Mara River.</p>
+                <h3 class="luxury-card-title">Northern Serengeti Arrival</h3>
+                <p class="luxury-card-desc">Fly in to the Kogatende airstrip in the northern Serengeti, where the migration herds are massing, and settle into your mobile camp with an evening game drive.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3-5 - Mara River Crossings" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Chasing the Columns" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Chasing the Columns</h3>
+                <p class="luxury-card-desc">Full-day game drives tracking the great wildebeest columns as they stream northward through the open plains toward the Mara River.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3 - Riverbank Anticipation" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Riverbank Anticipation</h3>
+                <p class="luxury-card-desc">Positioned at the best crossing points near Kogatende, watch the herds gather on the riverbank as the tension builds before the mass plunge.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 4 - The Great Crossing" loading="lazy">
                 <span class="luxury-card-badge">Highlight</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 3-5</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
                 </div>
-                <h3 class="luxury-card-title">Mara River Crossings</h3>
-                <p class="luxury-card-desc">Three days positioned at the best river crossing points. Witness the heart-stopping moments as wildebeest brave crocodiles and strong currents to reach the Mara side.</p>
+                <h3 class="luxury-card-title">The Great Crossing</h3>
+                <p class="luxury-card-desc">Witness the heart-stopping moment as thousands of wildebeest brave crocodile-infested waters and strong currents to reach the far bank.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 6-7 - Maasai Mara & Departure" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 5 - Herds on the Move" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 6-7</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
                 </div>
-                <h3 class="luxury-card-title">Maasai Mara & Departure</h3>
-                <p class="luxury-card-desc">Cross into Kenya's Maasai Mara to follow the migration herds. Final game drives among the wildebeest before departure from the Mara airstrip.</p>
+                <h3 class="luxury-card-title">Herds on the Move</h3>
+                <p class="luxury-card-desc">Follow the herds that made the crossing and search out fresh columns massing along the river, poised for another attempt.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 6 - Into the Maasai Mara" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
+                </div>
+                <h3 class="luxury-card-title">Into the Maasai Mara</h3>
+                <p class="luxury-card-desc">Cross over into Kenya's Maasai Mara to track the migration on the Mara side, with game drives among the scattered wildebeest herds.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 7 - Mara Farewell & Departure" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 7</span>
+                </div>
+                <h3 class="luxury-card-title">Mara Farewell &amp; Departure</h3>
+                <p class="luxury-card-desc">One final morning game drive among the wildebeest before a leisurely departure from the Mara airstrip, heading home with memories of the drama.</p>
             </div>
         </div>
     </div>

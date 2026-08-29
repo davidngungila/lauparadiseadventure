@@ -150,15 +150,54 @@
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 2-5 - Private Game Drives" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 2 - Big Five Quest" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Big Five Quest</h3>
+                <p class="luxury-card-desc">Your first full day of private game drives, tracking lion, leopard, elephant, buffalo and black rhino across the endless golden plains.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 3 - Predator & Prey Drama" loading="lazy">
                 <span class="luxury-card-badge">Exclusive</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 2-5</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
                 </div>
-                <h3 class="luxury-card-title">Private Game Drives</h3>
-                <p class="luxury-card-desc">Four full days of private game drives in your exclusive 4x4. Track the Big Five, witness predator-prey drama and explore the Serengeti's diverse ecosystems at your own pace.</p>
+                <h3 class="luxury-card-title">Predator &amp; Prey Drama</h3>
+                <p class="luxury-card-desc">A full day in your exclusive 4x4 following the predator-prey action, from patient lion stalks on the kopjes to cheetah sprints across the savannah.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 4 - Rivers & Woodlands" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Rivers &amp; Woodlands</h3>
+                <p class="luxury-card-desc">Explore the Serengeti's diverse ecosystems at your own pace, drifting from riverine woodland to rocky kopjes in search of elephant, giraffe and rare birds.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 5 - Wilderness Sundowner" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                </div>
+                <h3 class="luxury-card-title">Wilderness Sundowner</h3>
+                <p class="luxury-card-desc">A dawn game drive to trace the wildebeest herds, then an unforgettable evening toast as the sun melts into the horizon, followed by a candlelit bush dinner.</p>
             </div>
         </div>
 

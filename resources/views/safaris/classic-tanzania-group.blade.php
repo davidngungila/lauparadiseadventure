@@ -99,43 +99,99 @@
     <div class="ctg-cards">
         <div class="ctg-card">
             <div class="ctg-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Days 1-2 - Tarangire and Manyara" loading="lazy">
-                <span class="ctg-badge">Days 1-2</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 1 - Tarangire" loading="lazy">
+                <span class="ctg-badge">Day 1</span>
             </div>
             <div class="ctg-body">
                 <div class="ctg-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Tarangire - Lake Manyara</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire</span>
                 </div>
-                <h3 class="ctg-title">Baobabs &amp; Tree Lions</h3>
-                <p class="ctg-desc">Open with Tarangire's elephant megaherds, then continue to Manyara's groundwater forest and climbing lions.</p>
+                <h3 class="ctg-title">Baobabs &amp; Elephants</h3>
+                <p class="ctg-desc">Open the circuit in Tarangire, meeting elephant megaherds beneath giant baobabs along the Tarangire River.</p>
             </div>
         </div>
 
         <div class="ctg-card">
             <div class="ctg-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 3-5 - Serengeti" loading="lazy">
-                <span class="ctg-badge">Serengeti</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Lake Manyara" loading="lazy">
+                <span class="ctg-badge">Day 2</span>
+            </div>
+            <div class="ctg-body">
+                <div class="ctg-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Lake Manyara</span>
+                </div>
+                <h3 class="ctg-title">Tree Lions &amp; Flamingos</h3>
+                <p class="ctg-desc">Game drive through Manyara's groundwater forest looking for climbing lions and the pink flocks on the soda lake shore.</p>
+            </div>
+        </div>
+
+        <div class="ctg-card">
+            <div class="ctg-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 3 - Central Serengeti" loading="lazy">
+                <span class="ctg-badge">Day 3</span>
             </div>
             <div class="ctg-body">
                 <div class="ctg-meta">
                     <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
                 </div>
-                <h3 class="ctg-title">Three Serengeti Nights</h3>
-                <p class="ctg-desc">Two full days plus travel days in the endless plains following big cats and the great herds.</p>
+                <h3 class="ctg-title">Into the Endless Plains</h3>
+                <p class="ctg-desc">Travel into central Serengeti for your first evening among the endless plains, scouting for big cats as the sun drops.</p>
             </div>
         </div>
 
         <div class="ctg-card">
             <div class="ctg-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Days 6-7 - Ngorongoro Crater and Return" loading="lazy">
-                <span class="ctg-badge">Finale</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Central Plains" loading="lazy">
+                <span class="ctg-badge">Day 4</span>
+            </div>
+            <div class="ctg-body">
+                <div class="ctg-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Seronera Valley</span>
+                </div>
+                <h3 class="ctg-title">Seronera Predator Capital</h3>
+                <p class="ctg-desc">Full day around the Seronera Valley, the Serengeti's predator capital, tracking lions, leopards and the resident big cats.</p>
+            </div>
+        </div>
+
+        <div class="ctg-card">
+            <div class="ctg-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 5 - Northern Serengeti" loading="lazy">
+                <span class="ctg-badge">Day 5</span>
+            </div>
+            <div class="ctg-body">
+                <div class="ctg-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Northern Serengeti</span>
+                </div>
+                <h3 class="ctg-title">Chasing the Migration</h3>
+                <p class="ctg-desc">Head north and west in search of the Great Migration herds, watching for wildebeest and zebra streaming across the plains.</p>
+            </div>
+        </div>
+
+        <div class="ctg-card">
+            <div class="ctg-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 6 - Ngorongoro Crater" loading="lazy">
+                <span class="ctg-badge">Day 6</span>
+            </div>
+            <div class="ctg-body">
+                <div class="ctg-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater</span>
+                </div>
+                <h3 class="ctg-title">Crater Grand Descent</h3>
+                <p class="ctg-desc">Descend 600 metres into Ngorongoro Crater for a full day among the Big Five in Africa's densest wildlife amphitheatre.</p>
+            </div>
+        </div>
+
+        <div class="ctg-card">
+            <div class="ctg-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 7 - Return to Arusha" loading="lazy">
+                <span class="ctg-badge">Day 7</span>
             </div>
             <div class="ctg-body">
                 <div class="ctg-meta">
                     <span><i class="fas fa-map-marker-alt"></i> Ngorongoro - Arusha</span>
                 </div>
-                <h3 class="ctg-title">Crater Grand Finale</h3>
-                <p class="ctg-desc">Rim lodge sunset, full-day crater descent among the Big Five, then return to Arusha.</p>
+                <h3 class="ctg-title">Crater Rim &amp; Goodbyes</h3>
+                <p class="ctg-desc">Optional crater-rim morning drive before the scenic journey home to Arusha, sharing final stories with your new safari crew.</p>
             </div>
         </div>
     </div>

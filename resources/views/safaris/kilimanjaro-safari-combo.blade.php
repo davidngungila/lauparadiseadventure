@@ -137,35 +137,126 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324377/7-Days-Mount-Kilimanjaro-Climb-Lemosho-Route-2.webp.bv.webp" alt="Day 1-7 - Kilimanjaro Climb" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324377/7-Days-Mount-Kilimanjaro-Climb-Lemosho-Route-2.webp.bv.webp" alt="Day 1 - Rainforest to Mti Mkubwa" loading="lazy">
                 <span class="luxury-card-badge">Challenge</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-7</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Kilimanjaro Climb</h3>
-                <p class="luxury-card-desc">Seven days on the Lemosho Route, one of Kilimanjaro's most scenic paths. Traverse five climate zones, sleep in mountain camps and reach the summit at Uhuru Peak.</p>
+                <h3 class="luxury-card-title">Rainforest to Mti Mkubwa</h3>
+                <p class="luxury-card-desc">Drive to Londorossi Gate and register for the climb, then trek through dense montane rainforest to Mti Mkubwa Camp, with black-and-white colobus monkeys calling in the canopy overhead.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 8-9 - Serengeti Safari" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Shira Plateau Moorland" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Into the Moorland</h3>
+                <p class="luxury-card-desc">Leave the trees behind and climb onto the Shira Plateau, crossing rolling heath and moorland dotted with giant lobelias and sweeping views over the western rift.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Lava Tower Acclimatisation" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Climb High, Sleep Low</h3>
+                <p class="luxury-card-desc">Trek east across the plateau to the towering Lava Tower at 4,600 metres, acclimatising on the high trail before descending to the lush, sheltered Barranco Camp.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324377/7-Days-Mount-Kilimanjaro-Climb-Lemosho-Route-2.webp.bv.webp" alt="Day 4 - Barranco Wall" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Scaling the Barranco Wall</h3>
+                <p class="luxury-card-desc">Tackle the steep Barranco Wall hand over hand in the morning light, then continue over rolling alpine terrain to Karanga Camp in the valley below.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 5 - Barafu High Camp" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                </div>
+                <h3 class="luxury-card-title">Approach the High Camp</h3>
+                <p class="luxury-card-desc">Climb steadily above the cloud line to Barafu Camp at 4,673 metres, rest early in the afternoon and prepare your layers for the midnight summit attempt ahead.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 6 - Uhuru Peak Summit" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
+                </div>
+                <h3 class="luxury-card-title">Conquering Uhuru Peak</h3>
+                <p class="luxury-card-desc">Set off by headlamp at midnight, reach Stella Point at sunrise and push on to Uhuru Peak, Africa's rooftop at 5,895 metres, before descending back to Mweka Camp.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324377/7-Days-Mount-Kilimanjaro-Climb-Lemosho-Route-2.webp.bv.webp" alt="Day 7 - Descent to Mweka Gate" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 7</span>
+                </div>
+                <h3 class="luxury-card-title">Descent to the Gate</h3>
+                <p class="luxury-card-desc">Descend through the rainforest to Mweka Gate for your certificate of completion, then drive down to the Arusha area for a hot shower and a well-earned rest.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 8 - Serengeti" loading="lazy">
                 <span class="luxury-card-badge">Safari</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 8-9</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 8</span>
                 </div>
-                <h3 class="luxury-card-title">Serengeti Safari</h3>
-                <p class="luxury-card-desc">Two full days on safari in the Serengeti. After the intensity of the climb, relax in a luxury lodge while tracking lions, elephants and the Great Migration.</p>
+                <h3 class="luxury-card-title">Into the Serengeti</h3>
+                <p class="luxury-card-desc">After the intensity of the climb, relax in a luxury lodge while opening your first game drive on the Serengeti plains, tracking lions, elephants and the Great Migration.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 10 - Ngorongoro & Departure" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 9 - Serengeti Game Drive" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 9</span>
+                </div>
+                <h3 class="luxury-card-title">Full Serengeti Game Drive</h3>
+                <p class="luxury-card-desc">A full day on safari across the endless plains, following the wildebeest herds and searching out cheetahs on the kopjes and elephants beneath the flat-topped acacias.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324377/7-Days-Mount-Kilimanjaro-Climb-Lemosho-Route-2.webp.bv.webp" alt="Day 10 - Ngorongoro" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">

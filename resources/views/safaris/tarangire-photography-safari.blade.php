@@ -99,43 +99,71 @@
     <div class="tps-cards">
         <div class="tps-card">
             <div class="tps-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Days 1-3 - Tarangire Sessions" loading="lazy">
-                <span class="tps-badge">Days 1-3</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 1 - Tarangire River Drive" loading="lazy">
+                <span class="tps-badge">Day 1</span>
             </div>
             <div class="tps-body">
                 <div class="tps-meta">
-                    <span><i class="fas fa-camera"></i> Tarangire</span>
+                    <span><i class="fas fa-camera"></i> Tarangire River</span>
                 </div>
-                <h3 class="tps-title">Baobabs &amp; Mega-Herds</h3>
-                <p class="tps-desc">Three days along the river circuit: elephant families, lion-in-baobab opportunities and lovebird colonies in dawn light.</p>
+                <h3 class="tps-title">Tarangire Afternoon Drive</h3>
+                <p class="tps-desc">Arrive in Tarangire and catch the golden hour along the river, framing elephant herds and baobab silhouettes in the last warm light.</p>
             </div>
         </div>
 
         <div class="tps-card">
             <div class="tps-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046232/long-exposure-river-through-jungle-inlucz.jpg" alt="Day 4 - Lake Manyara" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046232/long-exposure-river-through-jungle-inlucz.jpg" alt="Day 2 - Full Tarangire Session" loading="lazy">
+                <span class="tps-badge">Day 2</span>
+            </div>
+            <div class="tps-body">
+                <div class="tps-meta">
+                    <span><i class="fas fa-camera"></i> Tarangire River Circuit</span>
+                </div>
+                <h3 class="tps-title">River Circuit Day</h3>
+                <p class="tps-desc">A full session along the permanent river for mega-herds of elephants, lion-in-baobab chances and lovebird colonies in dawn light.</p>
+            </div>
+        </div>
+
+        <div class="tps-card">
+            <div class="tps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/closeup-shot-elephants-standing-near-lake-sunset_set5ic.jpg" alt="Day 3 - Manyara Flamingos" loading="lazy">
+                <span class="tps-badge">Day 3</span>
+            </div>
+            <div class="tps-body">
+                <div class="tps-meta">
+                    <span><i class="fas fa-camera"></i> Tarangire - Lake Manyara</span>
+                </div>
+                <h3 class="tps-title">Morning Light &amp; Manyara</h3>
+                <p class="tps-desc">One last Tarangire sunrise session, then transfer to Lake Manyara for flamingo flocks, pelican flyovers and forest kingfishers.</p>
+            </div>
+        </div>
+
+        <div class="tps-card">
+            <div class="tps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Ngorongoro Crater" loading="lazy">
                 <span class="tps-badge">Day 4</span>
             </div>
             <div class="tps-body">
                 <div class="tps-meta">
-                    <span><i class="fas fa-camera"></i> Lake Manyara</span>
+                    <span><i class="fas fa-camera"></i> Ngorongoro Crater</span>
                 </div>
-                <h3 class="tps-title">Flamingos &amp; Forest Birds</h3>
-                <p class="tps-desc">A Manyara day for flamingo flocks, pelican flyovers, kingfishers and the park's famous ground hornbills.</p>
+                <h3 class="tps-title">Crater Floor Frames</h3>
+                <p class="tps-desc">Descend into the Ngorongoro Crater for black rhino, lions on the grassland and flamingo reflections along the soda shallows.</p>
             </div>
         </div>
 
         <div class="tps-card">
             <div class="tps-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/closeup-shot-elephants-standing-near-lake-sunset_set5ic.jpg" alt="Day 5 - Sunset Finale and Return" loading="lazy">
-                <span class="tps-badge">Finale</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046232/long-exposure-river-through-jungle-inlucz.jpg" alt="Day 5 - Sunset Finale Return" loading="lazy">
+                <span class="tps-badge">Day 5</span>
             </div>
             <div class="tps-body">
                 <div class="tps-meta">
                     <span><i class="fas fa-camera"></i> Sunset Session - Arusha</span>
                 </div>
-                <h3 class="tps-title">Sunset Silhouette Finale</h3>
-                <p class="tps-desc">One last evening session shooting elephant silhouettes against the baobab skyline before returning to Arusha.</p>
+                <h3 class="tps-title">Sunset Finale &amp; Return</h3>
+                <p class="tps-desc">One last evening session shooting elephant silhouettes against the baobab skyline before the drive back to Arusha.</p>
             </div>
         </div>
     </div>

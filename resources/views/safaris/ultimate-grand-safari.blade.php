@@ -99,43 +99,169 @@
     <div class="ugs-cards">
         <div class="ugs-card">
             <div class="ugs-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Days 1-4 - Tarangire, Manyara, Ngorongoro" loading="lazy">
-                <span class="ugs-badge">Days 1-4</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 1 - Tarangire Baobabs" loading="lazy">
+                <span class="ugs-badge">Day 1</span>
             </div>
             <div class="ugs-body">
                 <div class="ugs-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Tarangire - Manyara - Ngorongoro</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire National Park</span>
                 </div>
-                <h3 class="ugs-title">Parks &amp; the Crater</h3>
-                <p class="ugs-desc">Baobabs and elephant herds in Tarangire, tree-climbing lions in Manyara, then two crater-rim nights with a full-day descent into Ngorongoro.</p>
+                <h3 class="ugs-title">Baobabs &amp; Elephant Herds</h3>
+                <p class="ugs-desc">Arrive and explore Tarangire's baobab groves, where elephant herds gather along the river through the afternoon light.</p>
             </div>
         </div>
 
         <div class="ugs-card">
             <div class="ugs-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 5-9 - Serengeti" loading="lazy">
-                <span class="ugs-badge">Days 5-9</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Ngorongoro Crater" loading="lazy">
+                <span class="ugs-badge">Day 2</span>
             </div>
             <div class="ugs-body">
                 <div class="ugs-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Serengeti</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater</span>
                 </div>
-                <h3 class="ugs-title">Deep Serengeti Immersion</h3>
-                <p class="ugs-desc">Five days across central and northern Serengeti following the migration, with optional balloon safari at dawn.</p>
+                <h3 class="ugs-title">Crater Floor Discovery</h3>
+                <p class="ugs-desc">Descend into the Ngorongoro Crater for black rhino, lion and flamingos along the soda lake, then settle in at the crater rim.</p>
             </div>
         </div>
 
         <div class="ugs-card">
             <div class="ugs-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Days 10-12 - Zanzibar" loading="lazy">
-                <span class="ugs-badge">Beach Finale</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 3 - Road to Serengeti" loading="lazy">
+                <span class="ugs-badge">Day 3</span>
             </div>
             <div class="ugs-body">
                 <div class="ugs-meta">
-                    <span><i class="fas fa-plane"></i> Fly to Zanzibar</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Highlands - Serengeti</span>
                 </div>
-                <h3 class="ugs-title">Zanzibar Island Bliss</h3>
-                <p class="ugs-desc">Fly to the spice island for beach days, snorkeling reefs, a Stone Town wander and sunset dhow cruises.</p>
+                <h3 class="ugs-title">Road to the Serengeti</h3>
+                <p class="ugs-desc">Climb through the highlands past rolling Maasai plains and into the Serengeti, arriving in time for a first glance at the endless savanna.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/7-DAYS-SAFARI-TANZANIA--1536x1024_d9kzfh.webp" alt="Day 4 - Serengeti Game Drive" loading="lazy">
+                <span class="ugs-badge">Day 4</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
+                </div>
+                <h3 class="ugs-title">First Serengeti Drives</h3>
+                <p class="ugs-desc">Full game drives across the central Serengeti tracking lion prides, leopard and elephant among the scattered kopjes.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 5 - Seronera Valley" loading="lazy">
+                <span class="ugs-badge">Day 5</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Seronera Valley</span>
+                </div>
+                <h3 class="ugs-title">Seronera Wildlife Day</h3>
+                <p class="ugs-desc">Start with an optional dawn hot-air balloon above the woodlands, then track big cats through Seronera's predator-rich river valleys.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 6 - Central Plains" loading="lazy">
+                <span class="ugs-badge">Day 6</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Central Plains</span>
+                </div>
+                <h3 class="ugs-title">Central Plains Tracking</h3>
+                <p class="ugs-desc">Spend the day following cheetah and wildebeest across the open central plains, watching for the migration's seasonal movement.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 7 - Northern Serengeti" loading="lazy">
+                <span class="ugs-badge">Day 7</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Northern Serengeti</span>
+                </div>
+                <h3 class="ugs-title">Northern Frontiers</h3>
+                <p class="ugs-desc">Head north toward the Mara River where migrating herds gather for crossings (seasonal), rewarded by remote, uncrowded wilderness.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/7-DAYS-SAFARI-TANZANIA--1536x1024_d9kzfh.webp" alt="Day 8 - Western Corridor" loading="lazy">
+                <span class="ugs-badge">Day 8</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Western Serengeti</span>
+                </div>
+                <h3 class="ugs-title">Western Corridor</h3>
+                <p class="ugs-desc">Probe the western corridor's plains and rivers, hunting the great herds and the big cats that shadow them through the dry season.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 9 - Fly to Zanzibar" loading="lazy">
+                <span class="ugs-badge">Day 9</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-plane"></i> Fly Serengeti - Zanzibar</span>
+                </div>
+                <h3 class="ugs-title">Wings to Zanzibar</h3>
+                <p class="ugs-desc">Board a scenic flight from the Serengeti airstrip, trading savanna for aerial views of the Indian Ocean coastline and spice island.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 10 - Beach Resort Arrival" loading="lazy">
+                <span class="ugs-badge">Day 10</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Zanzibar Coast</span>
+                </div>
+                <h3 class="ugs-title">Beach Resort Welcome</h3>
+                <p class="ugs-desc">Settle into your resort on Zanzibar's northern coast, toes in the white sand as the afternoon tide rolls in over the reef.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046173/beautiful-tropical-beach-sea-ocean-with-coconut-palm-tree-umbrella-chair-blue-sky_ezrdjs.jpg" alt="Day 11 - Stone Town & Beach" loading="lazy">
+                <span class="ugs-badge">Day 11</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Beach &amp; Stone Town</span>
+                </div>
+                <h3 class="ugs-title">Stone Town &amp; Dhows</h3>
+                <p class="ugs-desc">Sunrise on the sand, snorkeling the reef, then Stone Town's spice-scented alleys and a sunset dhow cruise along the harbor.</p>
+            </div>
+        </div>
+
+        <div class="ugs-card">
+            <div class="ugs-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/7-DAYS-SAFARI-TANZANIA--1536x1024_d9kzfh.webp" alt="Day 12 - Departure" loading="lazy">
+                <span class="ugs-badge">Day 12</span>
+            </div>
+            <div class="ugs-body">
+                <div class="ugs-meta">
+                    <span><i class="fas fa-plane"></i> Zanzibar Departure</span>
+                </div>
+                <h3 class="ugs-title">Island Farewell</h3>
+                <p class="ugs-desc">A lazy final morning at the resort before transferring to Zanzibar's airport for your onward flight home.</p>
             </div>
         </div>
     </div>

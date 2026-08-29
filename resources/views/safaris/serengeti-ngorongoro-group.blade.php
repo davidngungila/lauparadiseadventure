@@ -99,43 +99,71 @@
     <div class="sng-cards">
         <div class="sng-card">
             <div class="sng-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Days 1-2 - Central Serengeti" loading="lazy">
-                <span class="sng-badge">Group</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 1 - Tarangire Group Drive" loading="lazy">
+                <span class="sng-badge">Day 1</span>
             </div>
             <div class="sng-body">
                 <div class="sng-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire</span>
                 </div>
-                <h3 class="sng-title">Serengeti Together</h3>
-                <p class="sng-desc">Drive in via the highlands and spend two days tracking big cats around Seronera with your group.</p>
+                <h3 class="sng-title">First Group Game Drive</h3>
+                <p class="sng-desc">Meet your fellow travelers in Arusha and set off on a Tarangire game drive among elephants and baobabs to start the trip.</p>
             </div>
         </div>
 
         <div class="sng-card">
             <div class="sng-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3 - Herds and Rim Lodge" loading="lazy">
-                <span class="sng-badge">Bush Dinner</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 2 - Central Serengeti" loading="lazy">
+                <span class="sng-badge">Day 2</span>
+            </div>
+            <div class="sng-body">
+                <div class="sng-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
+                </div>
+                <h3 class="sng-title">Into the Serengeti</h3>
+                <p class="sng-desc">Drive in via the Ngorongoro highlands and reach the Seronera valley for your first Serengeti evening among the big cats.</p>
+            </div>
+        </div>
+
+        <div class="sng-card">
+            <div class="sng-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3 - Herds and Bush Dinner" loading="lazy">
+                <span class="sng-badge">Day 3</span>
             </div>
             <div class="sng-body">
                 <div class="sng-meta">
                     <span><i class="fas fa-map-marker-alt"></i> Serengeti - Ngorongoro Rim</span>
                 </div>
                 <h3 class="sng-title">Herds, Then the Rim</h3>
-                <p class="sng-desc">A final Serengeti morning among the herds, then descend to a crater-rim lodge for a group bush dinner.</p>
+                <p class="sng-desc">A full Serengeti day among the herds, then descend to a crater-rim lodge for a group bush dinner under the stars.</p>
             </div>
         </div>
 
         <div class="sng-card">
             <div class="sng-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Days 4-5 - Crater and Return" loading="lazy">
-                <span class="sng-badge">Crater</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 4 - Ngorongoro Crater" loading="lazy">
+                <span class="sng-badge">Day 4</span>
             </div>
             <div class="sng-body">
                 <div class="sng-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Crater Floor - Arusha</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater</span>
                 </div>
-                <h3 class="sng-title">Crater Finale &amp; Farewell</h3>
-                <p class="sng-desc">Full-day crater descent — rhino, lions and flamingo lakes — before the group returns to Arusha.</p>
+                <h3 class="sng-title">Crater Floor Spectacular</h3>
+                <p class="sng-desc">A full-day descent to the crater floor to hunt rhino, lions and flamingo lakes inside the vast natural amphitheater.</p>
+            </div>
+        </div>
+
+        <div class="sng-card">
+            <div class="sng-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 5 - Return to Arusha" loading="lazy">
+                <span class="sng-badge">Day 5</span>
+            </div>
+            <div class="sng-body">
+                <div class="sng-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Arusha</span>
+                </div>
+                <h3 class="sng-title">Farewell &amp; Return</h3>
+                <p class="sng-desc">A final morning on the crater rim before the group drives back to Arusha, swapping contact details for the journey home.</p>
             </div>
         </div>
     </div>

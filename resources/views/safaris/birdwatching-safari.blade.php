@@ -137,41 +137,81 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046169/closeup-shot-beautiful-bird-sitting-pick-up_enaih2.jpg" alt="Day 1-2 - Lake Manyara" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046169/closeup-shot-beautiful-bird-sitting-pick-up_enaih2.jpg" alt="Day 1 - Manyara Forest Birding" loading="lazy">
                 <span class="luxury-card-badge">Birding</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-2</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Lake Manyara</h3>
-                <p class="luxury-card-desc">Two days birding at Lake Manyara. Explore the groundwater forests, soda lake shores and lakeside habitats. Flamingos, pelicans, storks and hornbills abound.</p>
+                <h3 class="luxury-card-title">Manyara Forest Birding</h3>
+                <p class="luxury-card-desc">Arrive at Lake Manyara and ease into the trip with an afternoon through its groundwater forest, watching silvery-cheeked hornbills, crowned cranes and grey-headed parrots.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 3-4 - Tarangire" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 2 - Soda Lake Shores" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 3-4</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
                 </div>
-                <h3 class="luxury-card-title">Tarangire</h3>
-                <p class="luxury-card-desc">Two days in Tarangire National Park. The Tarangire River attracts diverse birdlife including raptors, waterbirds and the endemic Asphy Starling and Rufous-tailed Weaver.</p>
+                <h3 class="luxury-card-title">Soda Lake Shores</h3>
+                <p class="luxury-card-desc">A full day along Manyara's soda lake, counting vast flocks of flamingos, pelicans and storks as they drift over the shallows with fish eagles watching overhead.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046169/closeup-shot-beautiful-bird-sitting-pick-up_enaih2.jpg" alt="Day 5-6 - Extended Birding" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046169/closeup-shot-beautiful-bird-sitting-pick-up_enaih2.jpg" alt="Day 3 - Tarangire River Life" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 5-6</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
                 </div>
-                <h3 class="luxury-card-title">Extended Birding</h3>
-                <p class="luxury-card-desc">Final days exploring additional habitats and hotspots. Checklist review and species tally. Return to Arusha with a comprehensive birding record.</p>
+                <h3 class="luxury-card-title">Tarangire River Life</h3>
+                <p class="luxury-card-desc">Transfer to Tarangire National Park and bird its riverine floodplains, where raptors and waterbirds gather in the acacias beside wandering elephant herds.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 4 - Tarangire's Endemics" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Tarangire's Endemic Chase</h3>
+                <p class="luxury-card-desc">Hunt the acacia woodland for Tanzanian endemics including the Ashy Starling and Rufous-tailed Weaver, then travel up through the cool Ngorongoro highlands.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046169/closeup-shot-beautiful-bird-sitting-pick-up_enaih2.jpg" alt="Day 5 - Crater Lake Birding" loading="lazy">
+                <span class="luxury-card-badge">Highlight</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                </div>
+                <h3 class="luxury-card-title">Crater Lake Birding</h3>
+                <p class="luxury-card-desc">Descend into the Ngorongoro Crater to scan its soda shallows for flamingos and fish eagles, then rejoin the rim and push on toward the Serengeti plains.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 6 - Serengeti Dawn & Departure" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
+                </div>
+                <h3 class="luxury-card-title">Serengeti Dawn &amp; Departure</h3>
+                <p class="luxury-card-desc">Spend the first light birding the open Serengeti plains to tick off any final species, then transfer back to Arusha for a checklist review and departure.</p>
             </div>
         </div>
     </div>

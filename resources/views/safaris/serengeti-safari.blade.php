@@ -99,43 +99,71 @@
     <div class="sbf-cards">
         <div class="sbf-card">
             <div class="sbf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 1 - Arusha to Central Serengeti" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 1 - Tarangire Arrival" loading="lazy">
                 <span class="sbf-badge">Day 1</span>
             </div>
             <div class="sbf-body">
                 <div class="sbf-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Arusha - Seronera</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire National Park</span>
                 </div>
-                <h3 class="sbf-title">Into the Serengeti</h3>
-                <p class="sbf-desc">Scenic drive via the Ngorongoro highlands into central Serengeti. Afternoon game drive among Seronera's famous resident prides.</p>
+                <h3 class="sbf-title">Tarangire Arrival</h3>
+                <p class="sbf-desc">Afternoon game drive through Tarangire's baobab country where elephant herds and buffalo gather at the river, before heading toward the Serengeti.</p>
             </div>
         </div>
 
         <div class="sbf-card">
             <div class="sbf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 2-3 - Big Cat Tracking" loading="lazy">
-                <span class="sbf-badge">Big Cats</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Central Serengeti Big Cats" loading="lazy">
+                <span class="sbf-badge">Day 2</span>
             </div>
             <div class="sbf-body">
                 <div class="sbf-meta">
                     <span><i class="fas fa-map-marker-alt"></i> Central Serengeti</span>
                 </div>
-                <h3 class="sbf-title">Full Days Tracking the Five</h3>
-                <p class="sbf-desc">Two dedicated days pursuing leopard in the sausage trees, cheetah on the kopjes and buffalo herds along the retima pools.</p>
+                <h3 class="sbf-title">Central Plains Big Cats</h3>
+                <p class="sbf-desc">A full day tracking leopard in the sausage trees and lion on the granitic kopjes of the central Serengeti's predator-rich core.</p>
             </div>
         </div>
 
         <div class="sbf-card">
             <div class="sbf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Days 4-5 - Eastern Plains and Return" loading="lazy">
-                <span class="sbf-badge">Finale</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046143/9-Days-Safari-vacation-Tanzania-Wildebeest-migration-1536x962_m0drtg.webp" alt="Day 3 - Seronera Valley" loading="lazy">
+                <span class="sbf-badge">Day 3</span>
             </div>
             <div class="sbf-body">
                 <div class="sbf-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Eastern Plains - Arusha</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Seronera Valley</span>
                 </div>
-                <h3 class="sbf-title">Eastern Plains &amp; Return</h3>
-                <p class="sbf-desc">Explore the quiet eastern grasslands favored by cheetah, then return to Arusha after a final sunrise game drive.</p>
+                <h3 class="sbf-title">Seronera Mornings</h3>
+                <p class="sbf-desc">Sunrise departures around Seronera's riverine forest, seeking lion prides and cheetah atop the termite mounds before the day heats up.</p>
+            </div>
+        </div>
+
+        <div class="sbf-card">
+            <div class="sbf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 4 - Northern Serengeti Finale" loading="lazy">
+                <span class="sbf-badge">Day 4</span>
+            </div>
+            <div class="sbf-body">
+                <div class="sbf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Northern Serengeti</span>
+                </div>
+                <h3 class="sbf-title">Northern Finale Drives</h3>
+                <p class="sbf-desc">Extended drives north through rolling hills and riverine country, following fresh tracks and vulture activity toward the quieter frontiers.</p>
+            </div>
+        </div>
+
+        <div class="sbf-card">
+            <div class="sbf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 5 - Ngorongoro Crater and Return" loading="lazy">
+                <span class="sbf-badge">Day 5</span>
+            </div>
+            <div class="sbf-body">
+                <div class="sbf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater - Arusha</span>
+                </div>
+                <h3 class="sbf-title">Crater &amp; Return</h3>
+                <p class="sbf-desc">Descend into the Ngorongoro Crater for black rhino on the forested rim and lion on the grassland floor, then return to Arusha.</p>
             </div>
         </div>
     </div>

@@ -164,14 +164,27 @@
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3-4 - Lake Manyara & Return" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Lake Manyara" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 3-4</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
                 </div>
-                <h3 class="luxury-card-title">Lake Manyara & Return</h3>
-                <p class="luxury-card-desc">Morning game drive in Lake Manyara National Park, famous for tree-climbing lions and flamingos. Afternoon transfer back to Arusha.</p>
+                <h3 class="luxury-card-title">Lake Manyara Game Drive</h3>
+                <p class="luxury-card-desc">Morning game drive through the groundwater forest of Lake Manyara National Park, famous for tree-climbing lions and vast flocks of pink flamingos along the lake shore.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766262419/beautiful-zebra-wild.jpg" alt="Day 4 - Return to Arusha" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Return to Arusha</h3>
+                <p class="luxury-card-desc">Break camp after a final bush breakfast and transfer back to Arusha, arriving in the late afternoon with scenes of the crater still fresh in mind.</p>
             </div>
         </div>
     </div>

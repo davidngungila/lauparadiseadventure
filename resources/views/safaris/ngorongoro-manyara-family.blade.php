@@ -99,22 +99,22 @@
     <div class="nmf-cards">
         <div class="nmf-card">
             <div class="nmf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046232/long-exposure-river-through-jungle-inlucz.jpg" alt="Days 1-2 - Lake Manyara" loading="lazy">
-                <span class="nmf-badge">Days 1-2</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046232/long-exposure-river-through-jungle-inlucz.jpg" alt="Day 1 - Tarangire" loading="lazy">
+                <span class="nmf-badge">Day 1</span>
             </div>
             <div class="nmf-body">
                 <div class="nmf-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Lake Manyara</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Tarangire</span>
                 </div>
-                <h3 class="nmf-title">Tree-Climbing Lions &amp; Flamingos</h3>
-                <p class="nmf-desc">Afternoon arrival drive plus a full Manyara day: baboon troops, hippos, flamingos and the famous lions in trees.</p>
+                <h3 class="nmf-title">Elephants &amp; Baobabs</h3>
+                <p class="nmf-desc">Morning pickup from Arusha and a drive to Tarangire, where elephants gather at the river among giant baobabs on the relaxed first game drive.</p>
             </div>
         </div>
 
         <div class="nmf-card">
             <div class="nmf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 3 - To the Crater Rim" loading="lazy">
-                <span class="nmf-badge">Day 3</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 2 - To the Crater Rim" loading="lazy">
+                <span class="nmf-badge">Day 2</span>
             </div>
             <div class="nmf-body">
                 <div class="nmf-meta">
@@ -127,15 +127,43 @@
 
         <div class="nmf-card">
             <div class="nmf-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 4-5 - Crater Floor and Maasai Visit" loading="lazy">
-                <span class="nmf-badge">Big Five</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3 - Ngorongoro Crater" loading="lazy">
+                <span class="nmf-badge">Day 3</span>
             </div>
             <div class="nmf-body">
                 <div class="nmf-meta">
-                    <span><i class="fas fa-map-marker-alt"></i> Crater Floor - Arusha</span>
+                    <span><i class="fas fa-map-marker-alt"></i> Ngorongoro Crater</span>
                 </div>
-                <h3 class="nmf-title">Crater Day &amp; Maasai Village</h3>
-                <p class="nmf-desc">Spot the Big Five on the crater floor, then visit a Maasai boma before the easy drive back to Arusha.</p>
+                <h3 class="nmf-title">Big Five Below</h3>
+                <p class="nmf-desc">Descend to the crater floor to hunt the Big Five with a kid-friendly guide, from lions on the grassland to rhinos near the soda lake.</p>
+            </div>
+        </div>
+
+        <div class="nmf-card">
+            <div class="nmf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046232/long-exposure-river-through-jungle-inlucz.jpg" alt="Day 4 - Lake Manyara" loading="lazy">
+                <span class="nmf-badge">Day 4</span>
+            </div>
+            <div class="nmf-body">
+                <div class="nmf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Lake Manyara</span>
+                </div>
+                <h3 class="nmf-title">Tree-Climbing Lions</h3>
+                <p class="nmf-desc">A full Manyara day full of baboon troops, hippos and flamingos — plus the famous lions lounging in the acacia trees.</p>
+            </div>
+        </div>
+
+        <div class="nmf-card">
+            <div class="nmf-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 5 - Maasai Village and Return" loading="lazy">
+                <span class="nmf-badge">Day 5</span>
+            </div>
+            <div class="nmf-body">
+                <div class="nmf-meta">
+                    <span><i class="fas fa-map-marker-alt"></i> Arusha</span>
+                </div>
+                <h3 class="nmf-title">Maasai Boma &amp; Farewell</h3>
+                <p class="nmf-desc">Visit a Maasai boma for a welcome song and beadwork before the easy afternoon drive back to Arusha.</p>
             </div>
         </div>
     </div>

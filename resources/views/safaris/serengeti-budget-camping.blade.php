@@ -150,15 +150,28 @@
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2-3 - Serengeti Game Drives" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 2 - Central Serengeti" loading="lazy">
                 <span class="luxury-card-badge">Highlight</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 2-3</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
                 </div>
-                <h3 class="luxury-card-title">Serengeti Game Drives</h3>
-                <p class="luxury-card-desc">Full day game drives exploring the Serengeti's diverse regions. Track the Big Five, witness predator-prey interactions and marvel at the endless plains.</p>
+                <h3 class="luxury-card-title">Central Serengeti Game Drive</h3>
+                <p class="luxury-card-desc">A full day exploring the central Serengeti around the Seronera River, tracking the Big Five and watching wildebeest herds stretch across the endless plains.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3 - Northern Serengeti" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Across the Northern Plains</h3>
+                <p class="luxury-card-desc">Head into the northern and western reaches of the park in search of river crossings and the migrating herds, with lions lounging on the kopjes along the way.</p>
             </div>
         </div>
 

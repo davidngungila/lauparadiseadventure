@@ -137,41 +137,106 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 1-2 - Tarangire" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 1 - Tarangire Elephants & Baobabs" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-2</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Tarangire</h3>
-                <p class="luxury-card-desc">Two days photographing Tarangire's elephant herds and ancient baobab landscapes. Golden hour sessions along the Tarangire River with expert composition guidance.</p>
+                <h3 class="luxury-card-title">Tarangire Elephants &amp; Baobabs</h3>
+                <p class="luxury-card-desc">Arrive in Tarangire and chase the golden-hour light across its elephant herds gathering beneath ancient baobab trees.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 3-6 - Serengeti" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 2 - Riverbank Golden Hour" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Riverbank Golden Hour</h3>
+                <p class="luxury-card-desc">Extended sessions along the Tarangire River with expert composition guidance, framing waterbirds and big cats in the forgiving low light.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 3 - Ngorongoro Crater Light" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Ngorongoro Crater Light</h3>
+                <p class="luxury-card-desc">Descend to the crater floor for dramatic wide-angle shots of the caldera, its soda lake and the wildlife crowds across the grasslands.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Into the Plains" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Into the Plains</h3>
+                <p class="luxury-card-desc">Drive up out of the crater highlands and into the Serengeti, stopping to photograph landscapes and plains-game portraits as the light shifts.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 5 - Predator & Prey Frames" loading="lazy">
                 <span class="luxury-card-badge">Highlight</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 3-6</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
                 </div>
-                <h3 class="luxury-card-title">Serengeti</h3>
-                <p class="luxury-card-desc">Four days in the Serengeti capturing predator-prey interactions, dramatic skies and the endless plains. Extended dawn and dusk sessions for the best light conditions.</p>
+                <h3 class="luxury-card-title">Predator &amp; Prey Frames</h3>
+                <p class="luxury-card-desc">A full day capturing predator-prey interactions on the plains, from lions on the hunt to cheetahs on the move in dramatic low light.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 7-8 - Ngorongoro & Review" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 6 - Dramatic Skies & Migration" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 7-8</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
                 </div>
-                <h3 class="luxury-card-title">Ngorongoro & Review</h3>
-                <p class="luxury-card-desc">Morning crater descent for dramatic wide-angle shots, followed by an afternoon portfolio review session with your photography guide. Transfer to Arusha.</p>
+                <h3 class="luxury-card-title">Dramatic Skies &amp; Migration</h3>
+                <p class="luxury-card-desc">Long dawn and dusk sessions tracking the wildebeest columns and photographing the big African sky as storm clouds build on the horizon.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324498/long-range-shot-elephants-walking-grassy-field-near-trees_inlucz.jpg" alt="Day 7 - Central Serengeti Sessions" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 7</span>
+                </div>
+                <h3 class="luxury-card-title">Central Serengeti Sessions</h3>
+                <p class="luxury-card-desc">Extended dawn and dusk shoots across the central plains, refining exposure and composition with your photographer guide beside you.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 8 - Portfolio Review & Departure" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 8</span>
+                </div>
+                <h3 class="luxury-card-title">Portfolio Review &amp; Departure</h3>
+                <p class="luxury-card-desc">One final morning session, a relaxed portfolio review with your guide, then the transfer to Arusha ahead of your departure.</p>
             </div>
         </div>
     </div>

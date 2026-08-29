@@ -137,41 +137,80 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046195/hadzabe_qgukhh.jpg" alt="Day 1-2 - Hadzabe & Datoga" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046195/hadzabe_qgukhh.jpg" alt="Day 1 - Hunting with the Hadzabe" loading="lazy">
                 <span class="luxury-card-badge">Cultural</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-2</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Hadzabe & Datoga Tribes</h3>
-                <p class="luxury-card-desc">Join the Hadzabe bushmen on a traditional hunt and visit the Datoga blacksmiths. Experience ancient ways of life that have remained unchanged for thousands of years.</p>
+                <h3 class="luxury-card-title">Hunting with the Hadzabe</h3>
+                <p class="luxury-card-desc">Join the Hadzabe bushmen at Lake Eyasi on a traditional morning hunt with bow and arrow, stepping into a hunter-gatherer way of life unchanged for thousands of years.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 3-4 - Maasai Village & Ngorongoro" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 2 - The Datoga Blacksmiths" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 3-4</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
                 </div>
-                <h3 class="luxury-card-title">Maasai Village & Ngorongoro</h3>
-                <p class="luxury-card-desc">Visit a Maasai boma to learn about their pastoral culture, then descend into the Ngorongoro Crater for a full day game drive among the Big Five.</p>
+                <h3 class="luxury-card-title">The Datoga Blacksmiths</h3>
+                <p class="luxury-card-desc">Visit the Datoga blacksmiths beside Lake Eyasi and watch their age-old iron-forging craft, then learn how they herd cattle and keep honey in the surrounding bush.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046195/hadzabe_qgukhh.jpg" alt="Day 5-6 - Lake Manyara & Tarangire" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046195/hadzabe_qgukhh.jpg" alt="Day 3 - Maasai Village" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 5-6</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
                 </div>
-                <h3 class="luxury-card-title">Lake Manyara & Tarangire</h3>
-                <p class="luxury-card-desc">Game drives in Lake Manyara and Tarangire National Parks. Spot tree-climbing lions, vast elephant herds and diverse birdlife before returning to Arusha.</p>
+                <h3 class="luxury-card-title">Maasai Village Visit</h3>
+                <p class="luxury-card-desc">Visit a Maasai boma to learn about their pastoral culture, from the jumping warrior dance and colourful beadwork to the daily rhythm of herding on the crater highlands.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 4 - Ngorongoro Crater" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Ngorongoro Crater Game Drive</h3>
+                <p class="luxury-card-desc">Descend into the Ngorongoro Crater for a full day game drive among the Big Five, with rhinos on the crater floor and flamingos crowding the soda lake.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046195/hadzabe_qgukhh.jpg" alt="Day 5 - Tarangire" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                </div>
+                <h3 class="luxury-card-title">Tarangire Game Drive</h3>
+                <p class="luxury-card-desc">Morning game drive through Tarangire National Park's baobab-dotted plains, famous for its enormous elephant herds and lions resting beneath the ancient trees.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 6 - Return to Arusha" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 6</span>
+                </div>
+                <h3 class="luxury-card-title">Return to Arusha</h3>
+                <p class="luxury-card-desc">Drive back to Arusha with a final game drive en route, arriving in the early evening and completing the journey in time for your onward departure.</p>
             </div>
         </div>
     </div>

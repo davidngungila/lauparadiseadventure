@@ -137,42 +137,127 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 1-5 - Serengeti & Ngorongoro Safari" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 1 - Tarangire National Park" loading="lazy">
                 <span class="luxury-card-badge">Safari</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-5</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
-                <h3 class="luxury-card-title">Serengeti & Ngorongoro Safari</h3>
-                <p class="luxury-card-desc">Five days exploring the Serengeti and Ngorongoro Crater. Track the Big Five, witness predator-prey drama and descend into the world's largest intact volcanic crater.</p>
+                <h3 class="luxury-card-title">Tarangire National Park</h3>
+                <p class="luxury-card-desc">Begin your safari with an afternoon game drive through Tarangire, meeting the park's great elephant herds beneath towering baobabs.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 6 - Fly to Zanzibar" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 2 - Ngorongoro Crater" loading="lazy">
+                <span class="luxury-card-badge">Safari</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Ngorongoro Crater</h3>
+                <p class="luxury-card-desc">Descend into the world's largest intact volcanic crater and track the Big Five, from black rhino to dense lion prides on the crater floor.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 3 - Central Serengeti" loading="lazy">
+                <span class="luxury-card-badge">Safari</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
+                </div>
+                <h3 class="luxury-card-title">Central Serengeti</h3>
+                <p class="luxury-card-desc">Drive across the endless plains into central Serengeti and begin searching for lion, leopard, elephant and buffalo across the golden savanna.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 4 - Seronera Valley" loading="lazy">
+                <span class="luxury-card-badge">Safari</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Seronera Valley</h3>
+                <p class="luxury-card-desc">A full day in the Seronera Valley, the Serengeti's predator capital, where resident lion prides and leopards stalk the riverine woodlands.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 5 - Serengeti to Zanzibar" loading="lazy">
+                <span class="luxury-card-badge">Safari</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                </div>
+                <h3 class="luxury-card-title">Serengeti & Fly to Zanzibar</h3>
+                <p class="luxury-card-desc">Morning game drive hunting the Great Migration herds, then board a scenic bush flight to Zanzibar and settle into beach resort life.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 6 - Zanzibar Beach Resort" loading="lazy">
+                <span class="luxury-card-badge">Beach</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
                     <span><i class="fas fa-calendar-day"></i> Day 6</span>
                 </div>
-                <h3 class="luxury-card-title">Fly to Zanzibar</h3>
-                <p class="luxury-card-desc">Scenic flight from the Serengeti to Zanzibar. Transfer to your beach resort and settle into island life with a welcome cocktail and sunset beach walk.</p>
+                <h3 class="luxury-card-title">Beach Resort</h3>
+                <p class="luxury-card-desc">Unwind on Zanzibar's white sand beaches, swim in the warm turquoise Indian Ocean and relax under the swaying palms of your beachfront resort.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 7-9 - Zanzibar Beach" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 7 - Snorkeling & Dhow Cruise" loading="lazy">
                 <span class="luxury-card-badge">Beach</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 7-9</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 7</span>
                 </div>
-                <h3 class="luxury-card-title">Zanzibar Beach</h3>
-                <p class="luxury-card-desc">Three days of pure beach bliss. Snorkel with tropical fish, explore Stone Town's historic alleys, visit a spice plantation and enjoy sunset dhow cruises.</p>
+                <h3 class="luxury-card-title">Snorkeling & Dhow Cruise</h3>
+                <p class="luxury-card-desc">Snorkel the vibrant coral reefs teeming with tropical fish, then set sail on a traditional dhow for a golden sunset cruise along the coast.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 8 - Stone Town & Spice Tour" loading="lazy">
+                <span class="luxury-card-badge">Beach</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 8</span>
+                </div>
+                <h3 class="luxury-card-title">Stone Town & Spice Tour</h3>
+                <p class="luxury-card-desc">Wander Stone Town's narrow historic alleys and visit a spice plantation, tasting cloves, vanilla and exotic fruits grown across the island.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766324502/tourist-carrying-luggage-_2_yqtggh.jpg" alt="Day 9 - Departure" loading="lazy">
+                <span class="luxury-card-badge">Beach</span>
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 9</span>
+                </div>
+                <h3 class="luxury-card-title">Departure</h3>
+                <p class="luxury-card-desc">One last morning on the beach before transferring to the airport for your flight home, refreshed from an unforgettable safari and island holiday.</p>
             </div>
         </div>
     </div>

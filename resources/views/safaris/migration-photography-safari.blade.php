@@ -99,43 +99,141 @@
     <div class="mps-cards">
         <div class="mps-card">
             <div class="mps-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Days 1-2 - Ngorongoro Crater" loading="lazy">
-                <span class="mps-badge">Days 1-2</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 1 - Ngorongoro Crater" loading="lazy">
+                <span class="mps-badge">Day 1</span>
             </div>
             <div class="mps-body">
                 <div class="mps-meta">
                     <span><i class="fas fa-camera"></i> Ngorongoro Crater</span>
                 </div>
                 <h3 class="mps-title">Warm-Up on the Crater Floor</h3>
-                <p class="mps-desc">Two days dialing in technique among rhino, black-maned lions and flamingo light on the soda lake.</p>
+                <p class="mps-desc">First day dialing in technique among rhino, black-maned lions and flamingo light on the soda lake.</p>
             </div>
         </div>
 
         <div class="mps-card">
             <div class="mps-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Days 3-7 - Northern Serengeti River Vigils" loading="lazy">
-                <span class="mps-badge">Main Event</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 2 - Ngorongoro Crater" loading="lazy">
+                <span class="mps-badge">Day 2</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Ngorongoro Crater</span>
+                </div>
+                <h3 class="mps-title">Predator Action Below</h3>
+                <p class="mps-desc">Second crater day spent stalking lions and hyenas along the forest line as the light thins over the caldera rim.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 3 - Northern Serengeti River Vigils" loading="lazy">
+                <span class="mps-badge">Day 3</span>
             </div>
             <div class="mps-body">
                 <div class="mps-meta">
                     <span><i class="fas fa-camera"></i> Northern Serengeti - Mara River</span>
                 </div>
-                <h3 class="mps-title">Five Days at the River</h3>
-                <p class="mps-desc">Full-day vigils at Kogatende's crossing points. When the herds mass, you are already in position — no rushing from camp.</p>
+                <h3 class="mps-title">First River Vigil</h3>
+                <p class="mps-desc">Settle into the Kogatende crossing zone with a full day of dawn-to-dusk watching as the first herds mass on the bank.</p>
             </div>
         </div>
 
         <div class="mps-card">
             <div class="mps-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Days 8-10 - Predators and Return" loading="lazy">
-                <span class="mps-badge">Finale</span>
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 4 - Northern Serengeti River Vigils" loading="lazy">
+                <span class="mps-badge">Day 4</span>
             </div>
             <div class="mps-body">
                 <div class="mps-meta">
-                    <span><i class="fas fa-camera"></i> Central Plains - Arusha</span>
+                    <span><i class="fas fa-camera"></i> Northern Serengeti - Mara River</span>
                 </div>
-                <h3 class="mps-title">Predators &amp; Farewell Frames</h3>
-                <p class="mps-desc">Follow lion prides and hyena clans shadowing the herds south, then return to Arusha via optional Olduvai stop.</p>
+                <h3 class="mps-title">Waiting in Position</h3>
+                <p class="mps-desc">More vigil hours at the crossing points, using the spotter network to stay ahead of gathering columns of wildebeest.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 5 - Northern Serengeti River Vigils" loading="lazy">
+                <span class="mps-badge">Day 5</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Northern Serengeti - Mara River</span>
+                </div>
+                <h3 class="mps-title">The Gathering Herds</h3>
+                <p class="mps-desc">Numbers build along the river as zebra and wildebeest stack up, giving near-continuous action for your long lenses.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 6 - Northern Serengeti River Vigils" loading="lazy">
+                <span class="mps-badge">Day 6</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Northern Serengeti - Mara River</span>
+                </div>
+                <h3 class="mps-title">Holding the Banks</h3>
+                <p class="mps-desc">Front-row vantage as the herds gather pace, capturing the tense build before any leap into the crocodile waters.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046204/Mara-River-3-1536x1024_qflu8o.webp" alt="Day 7 - Northern Serengeti River Vigils" loading="lazy">
+                <span class="mps-badge">Day 7</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Northern Serengeti - Kogatende</span>
+                </div>
+                <h3 class="mps-title">Crossing Season Peak</h3>
+                <p class="mps-desc">Final river day at Kogatende's most active points, the moment of truth when waves of animals finally commit to the plunge.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 8 - Central Plains Predators" loading="lazy">
+                <span class="mps-badge">Day 8</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Central Plains</span>
+                </div>
+                <h3 class="mps-title">Following the Predators</h3>
+                <p class="mps-desc">Leave the river and trail lion prides shadowing the herds as they begin their slow move south across the open plains.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 9 - Central Plains Predators" loading="lazy">
+                <span class="mps-badge">Day 9</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Central Plains</span>
+                </div>
+                <h3 class="mps-title">Hyena &amp; Lion Drama</h3>
+                <p class="mps-desc">Another day in the predator zone, chasing hunts between hyena clans and lionesses moving with the vast spreading herds.</p>
+            </div>
+        </div>
+
+        <div class="mps-card">
+            <div class="mps-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 10 - Arusha Return" loading="lazy">
+                <span class="mps-badge">Day 10</span>
+            </div>
+            <div class="mps-body">
+                <div class="mps-meta">
+                    <span><i class="fas fa-camera"></i> Arusha</span>
+                </div>
+                <h3 class="mps-title">Olduvai &amp; Farewell Frames</h3>
+                <p class="mps-desc">Optional Olduvai Gorge stop on the way out before the return drive to Arusha with your memory cards full.</p>
             </div>
         </div>
     </div>

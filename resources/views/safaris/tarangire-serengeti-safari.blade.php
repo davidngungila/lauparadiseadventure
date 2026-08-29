@@ -137,42 +137,81 @@
     <div class="luxury-packages">
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 1-2 - Tarangire National Park" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 1 - Tarangire National Park" loading="lazy">
                 <span class="luxury-card-badge">Elephants</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 1-2</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 1</span>
                 </div>
                 <h3 class="luxury-card-title">Tarangire National Park</h3>
-                <p class="luxury-card-desc">Two full days in Tarangire exploring elephant herds, baobab landscapes and diverse wildlife along the Tarangire River. Track lions and leopards in the woodland areas.</p>
+                <p class="luxury-card-desc">Arrive in Tarangire and enjoy an afternoon game drive along the Tarangire River, spotting the park's famed elephant herds and baobab-studded savanna.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3-5 - Serengeti Plains" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 2 - Tarangire Woodlands" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 2</span>
+                </div>
+                <h3 class="luxury-card-title">Tarangire Woodlands</h3>
+                <p class="luxury-card-desc">A full day exploring Tarangire's acacia woodlands and swamps, tracking lions and leopards hidden among the ancient baobabs and seasonal marshlands.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 3 - Central Serengeti" loading="lazy">
                 <span class="luxury-card-badge">Big Five</span>
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
-                    <span><i class="fas fa-calendar-day"></i> Day 3-5</span>
+                    <span><i class="fas fa-calendar-day"></i> Day 3</span>
                 </div>
-                <h3 class="luxury-card-title">Serengeti Plains</h3>
-                <p class="luxury-card-desc">Three full days in the Serengeti. Track lions, leopards, elephants, rhinos and buffalo across the endless plains. Witness predator-prey drama and stunning sunsets.</p>
+                <h3 class="luxury-card-title">Central Serengeti</h3>
+                <p class="luxury-card-desc">Drive into the central Serengeti, the heart of the endless plains, and begin the hunt for lion, elephant, buffalo and rhino across the golden savanna.</p>
             </div>
         </div>
 
         <div class="luxury-card">
             <div class="luxury-card-img">
-                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 6 - Ngorongoro & Return" loading="lazy">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046228/tower-giraffes-gathered-around-bushes-open-woodlan_fsgqe3.jpg" alt="Day 4 - Seronera Area" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 4</span>
+                </div>
+                <h3 class="luxury-card-title">Seronera Area</h3>
+                <p class="luxury-card-desc">Full day of game drives around the Seronera Valley, the Serengeti's predator capital, where resident lion prides and leopards roam the riverine thickets.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766046154/Angata-Tarangire-2-1-1536x863_amthnm.jpg" alt="Day 5 - Northern Serengeti" loading="lazy">
+            </div>
+            <div class="luxury-card-body">
+                <div class="luxury-card-meta">
+                    <span><i class="fas fa-calendar-day"></i> Day 5</span>
+                </div>
+                <h3 class="luxury-card-title">Northern Serengeti</h3>
+                <p class="luxury-card-desc">Venture into the northern and western Serengeti in search of the Great Migration herds crossing the Mara River, with buffalo and big cats in abundance.</p>
+            </div>
+        </div>
+
+        <div class="luxury-card">
+            <div class="luxury-card-img">
+                <img src="https://res.cloudinary.com/dmqdm8gfk/image/upload/v1766042771/8-Days-Tanzania-holiday-Wildebeest-migration-1536x1018_gyndkw.jpg" alt="Day 6 - Ngorongoro & Arusha Return" loading="lazy">
             </div>
             <div class="luxury-card-body">
                 <div class="luxury-card-meta">
                     <span><i class="fas fa-calendar-day"></i> Day 6</span>
                 </div>
                 <h3 class="luxury-card-title">Ngorongoro & Return</h3>
-                <p class="luxury-card-desc">Morning descent into the Ngorongoro Crater for a final game drive, then scenic drive back to Arusha. The perfect end to a classic safari.</p>
+                <p class="luxury-card-desc">Morning descent into the Ngorongoro Crater for a final game drive, then a scenic drive back to Arusha. The perfect end to a classic safari.</p>
             </div>
         </div>
     </div>
